@@ -1,0 +1,86 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{MLFLACH}
+\selectlanguageifdefined{russian}
+Flach~Peter. Машинное обучение. Наука и
+  искусство построения алгоритмов, которые
+  извлекают знания из данных.
+\newblock Москва: ДМК Пресс, 2015.
+\newblock 400~{с.}{}
+
+\bibitem{TEXTCLASSIFICATION}
+\selectlanguageifdefined{russian}
+Батура~Т.~В. Методы автоматической
+  классификации текстов.
+\newblock Программные продукты и системы.
+\newblock 2017.
+\newblock №1.
+  URL:~\url{https://cyberleninka.ru/article/n/metody-avtomaticheskoy-klassifikatsii-tekstov}
+  \BibAnnote{дата обращения: 01.04.2019}.{}
+
+\bibitem{Vyugin}
+\selectlanguageifdefined{russian}
+Вьюгин~В.~В. Математические основы теории
+  машинного обучения и прогнозирования.
+\newblock Москва, 2013.
+\newblock 387~{с.}{}
+
+\bibitem{ELASTIC}
+\selectlanguageifdefined{english}
+Elasticsearch Reference [Электронный ресурс].
+\newblock Официальный сайт проекта Elasticsearch.
+\newblock 2019.
+  URL:~\url{https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html}
+  \BibAnnote{дата обращения: 12.04.2019}.{}
+
+\bibitem{Python}
+\selectlanguageifdefined{english}
+Python Reference [Электронный ресурс].
+\newblock Официальный сайт Python.
+\newblock 2019. URL:~\url{https://www.python.org/} \BibAnnote{дата
+  обращения: 02.04.2019}.{}
+
+\bibitem{Scikit}
+\selectlanguageifdefined{english}
+Scikit-learn: Machine Learning in Python [Электронный ресурс].
+\newblock Официальный сайт проекта Scikit-learn.
+\newblock 2019. URL:~\url{https://scikit-learn.org/} \BibAnnote{дата
+  обращения: 10.12.2018}.{}
+
+\bibitem{NumPy}
+\selectlanguageifdefined{english}
+NumPy Reference [Электронный ресурс].
+\newblock Официальный сайт проекта NumPy.
+\newblock 2019. URL:~\url{hhttps://www.numpy.org/} \BibAnnote{дата
+  обращения: 10.12.2018}.{}
+
+\bibitem{pandas}
+\selectlanguageifdefined{english}
+pandas: Python Data Analysis Library [Электронный ресурс].
+\newblock Официальный сайт проекта pandas.
+\newblock 2019. URL:~\url{https://pandas.pydata.org/} \BibAnnote{дата
+  обращения: 10.12.2018}.{}
+
+\bibitem{Joblib}
+\selectlanguageifdefined{english}
+Joblib: running Python functions as pipeline jobs [Электронный
+  ресурс].
+\newblock Официальный сайт проекта Joblib.
+\newblock 2019. URL:~\url{https://joblib.readthedocs.io/} \BibAnnote{дата
+  обращения: 10.12.2018}.{}
+
+\bibitem{Flask}
+\selectlanguageifdefined{english}
+Flask: A Python Microframework [Электронный ресурс].
+\newblock Официальный сайт проекта Flask.
+\newblock 2019. URL:~\url{http://flask.pocoo.org} \BibAnnote{дата
+  обращения: 30.09.2018}.{}
+
+\end{thebibliography}
