@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.4.20)  8 MAY 2019 01:19
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.4.20)  12 MAY 2019 19:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1155,6 +1155,18 @@ LaTeX Warning: Label `fig:project-tree' multiply defined.
 
 LaTeX Warning: Label `fig:project-tree' multiply defined.
 
+
+LaTeX Warning: Label `lst:modules__events__short' multiply defined.
+
+
+LaTeX Warning: Label `lst:modules__events__short' multiply defined.
+
+
+LaTeX Warning: Label `lst:modules__events__short' multiply defined.
+
+
+LaTeX Warning: Label `lst:modules__events__short' multiply defined.
+
 )
 \openout1 = `all.aux'.
 
@@ -1366,7 +1378,13 @@ Overfull \hbox (5.0638pt too wide) in paragraph at lines 103--104
 тичных каркасов веб-
  []
 
-[23]) (./build/3-development.tex [24]) (build/all.bbl
+[23]) (./build/3-development.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 20.
+ (./src/vectorizer.py) [24]
+(./src/transformer.py) (./src/classifier.py) [25] [26] (./src/prediction.py
+[27]) [28] (./src/api.py) [29]) (./build/4-testing.tex [30] [31])
+(./build/5-conclusion.tex [32] [33]) (build/all.bbl
 Underfull \hbox (badness 6608) in paragraph at lines 12--17
 []\TU/PTAstraSerif(1)/m/n/14.4 Flach Peter. Машинное обучение. Наука и искусств
 о построения
@@ -1427,33 +1445,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--70
 й ресурс].
  []
 
-[25]) [26]
+[34]) [35]
 
 Package caption Warning: Unused \captionsetup[table] on input line 472.
 See the caption package documentation for explanation.
 
-
-Package caption Warning: Unused \captionsetup[lstlisting] on input line 482.
-See the caption package documentation for explanation.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
 (build/all.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 43.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 28012 strings out of 494233
- 495594 string characters out of 6169795
- 600804 words of memory out of 5000000
- 31568 multiletter control sequences out of 15000+600000
- 534577 words of font info for 62 fonts, out of 8000000 for 9000
+ 28055 strings out of 494233
+ 496427 string characters out of 6169795
+ 606336 words of memory out of 5000000
+ 31582 multiletter control sequences out of 15000+600000
+ 534836 words of font info for 67 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 68i,6n,98p,10408b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,6n,98p,10408b,1108s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on build/all.pdf (23 pages).
+Output written on build/all.pdf (32 pages).

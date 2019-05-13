@@ -14,4 +14,10 @@
 \contentsline {subsubsection}{\numberline {2.2.3}Проектирование API}{23}{subsubsection.2.2.3}
 \contentsline {section}{\numberline {3}ОПИСАНИЕ ПРОЦЕССА РАЗРАБОТКИ ПРОГРАММЫ}{24}{section.3}
 \contentsline {subsection}{\numberline {3.1}Модуль обучения}{24}{subsection.3.1}
-\contentsline {section}{Библиографический список}{25}{section*.7}
+\contentsline {subsection}{\numberline {3.2}Модуль классификации}{27}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Модуль API}{29}{subsection.3.3}
+\contentsline {section}{\numberline {4}ТЕСТИРОВАНИЕ РАЗРАБОТАННОЙ ПРОГРАММЫ}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}Тестирование программы}{30}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Тестирование модели}{31}{subsection.4.2}
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{32}{section*.7}
+\contentsline {section}{Библиографический список}{34}{section*.8}

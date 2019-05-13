@@ -13,4 +13,10 @@
 \BOOKMARK [3][-]{subsubsection.2.2.3}{Проектирование API}{subsection.2.2}% 13
 \BOOKMARK [1][-]{section.3}{ОПИСАНИЕ ПРОЦЕССА РАЗРАБОТКИ ПРОГРАММЫ}{}% 14
 \BOOKMARK [2][-]{subsection.3.1}{Модуль обучения}{section.3}% 15
-\BOOKMARK [1][-]{section*.7}{Библиографический список}{}% 16
+\BOOKMARK [2][-]{subsection.3.2}{Модуль классификации}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.3}{Модуль API}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{ТЕСТИРОВАНИЕ РАЗРАБОТАННОЙ ПРОГРАММЫ}{}% 18
+\BOOKMARK [2][-]{subsection.4.1}{Тестирование программы}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.2}{Тестирование модели}{section.4}% 20
+\BOOKMARK [1][-]{section*.7}{ЗАКЛЮЧЕНИЕ}{}% 21
+\BOOKMARK [1][-]{section*.8}{Библиографический список}{}% 22
