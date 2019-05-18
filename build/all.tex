@@ -3,12 +3,16 @@
 
 \documentclass[pta]{build/scs-iam}
 
+\usepackage[justification=centering]{caption} 
+\captionsetup[table]{skip=15pt}
+\captionsetup[table]{justification=centering}
+
 \begin{document}
   \pagestyle{headcenter}
 
-  % \input{build/title}
-  % \input{build/task}
-  % \input{build/annotation}
+  \input{build/title}
+  \input{build/task}
+  \input{build/annotation}
 
   \setcounter{page}{4}
 
@@ -23,7 +27,6 @@
   \input{build/3-development} 
   \input{build/4-testing}
   \input{build/5-conclusion}
-  % \input{build/6-definitions}
 
   \phantomsection
   \addcontentsline{toc}{section}{Библиографический список}
