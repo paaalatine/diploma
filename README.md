@@ -1,6 +1,6 @@
-# diploma-2019
+# diploma
 ## Instructions
-### Setup fonts(debian)
+### Setup fonts
 ```
   make install_fonts
 ```
