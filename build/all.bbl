@@ -12,7 +12,7 @@
 Flach~Peter. Машинное обучение. Наука и
   искусство построения алгоритмов, которые
   извлекают знания из данных.
-\newblock Москва: ДМК Пресс, 2015.
+\newblock — М.: ДМК Пресс, 2015.
 \newblock 400~{с.}{}
 
 \bibitem{TEXTCLASSIFICATION}
@@ -29,7 +29,7 @@ Flach~Peter. Машинное обучение. Наука и
 \selectlanguageifdefined{russian}
 Вьюгин~В.~В. Математические основы теории
   машинного обучения и прогнозирования.
-\newblock Москва, 2013.
+\newblock — М., 2013.
 \newblock 387~{с.}{}
 
 \bibitem{ELASTIC}
